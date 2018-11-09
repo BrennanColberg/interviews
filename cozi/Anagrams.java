@@ -15,7 +15,7 @@
 
 import java.util.*;
 
-public class Main {
+public class Anagrams {
 
 	public static void main(String[] args) {
 		String[] input = { "Cat", "Tac", "Act", "Hello", "World", "Car", "Rac" };
